@@ -112,8 +112,10 @@ To provide a centralized and visually driven tool that helps:
 
 Embed or link a dashboard preview here. You can take a screenshot from Power BI or publish it via Power BI Service for shareable access.
 
+Show what the dashboard looks like. - ![Alt text](https://github.com/username/repo/assets/image.png)
 Example Placeholder:
-![Dashboard Preview](https://github.com/your-org-name/BWMS-dashboard/blob/main/BWMS_Snapshot.png)
+![Dashboard Preview](https://github.com/Govag975/Brainwave_Matrix_Intern/blob/main/Screenshot%202025-06-24%20165116.png)
+
 
 ---
 
